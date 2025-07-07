@@ -111,13 +111,14 @@ The script performs several data cleaning steps:
 
 ```
 charlie-script/
- main.py                    # Main script
-Food Diary II.pdf         # Your PDF input (add this)
-food_counts.json          # Generated JSON data
-top_50_foods.txt          # Generated text summary
-food_wrapped_graphics/    # Generated graphics directory
-pyproject.toml           # Dependencies
-README.md               # This file
+├── main.py                    # Main script
+├── Food Diary II.pdf         # Your PDF input (YOU ADD THIS)
+├── food_counts.json          # Generated JSON data (ignored by git)
+├── top_50_foods.txt          # Generated text summary (ignored by git)
+├── food_wrapped_graphics/    # Generated graphics directory (ignored by git)
+├── pyproject.toml           # Dependencies
+├── .gitignore               # Git ignore rules
+└── README.md               # This file
 ```
 
 ## Dependencies
