@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Generated outputs
+food_wrapped_graphics/
+top_50_foods.txt
+food_counts.json
+parsed_text_first_20_pages.txt
+
+# Input PDF file (user-provided)
+Food Diary II.pdf
+*.pdf
+
+# Virtual environments
+.venv
+
+.DS_Store
