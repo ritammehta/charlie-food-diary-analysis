@@ -4,12 +4,12 @@ A Python script that parses a PDF food diary and generates Spotify Wrapped-style
 
 ## Features
 
-- =� Parses PDF food diaries and extracts food items
-- <z Consolidates beer types (light beer, dark beer, guinness � beer)
-- =" Handles quantities (e.g., "3 tacos" � adds 3 to tacos count)
-- =� Generates top 50 foods list
-- <� Creates 15 beautiful square graphics in Spotify Wrapped style
-- =� Perfect for social media sharing (1080x1080)
+- Parses PDF food diaries and extracts food items
+- Consolidates beer types (light beer, dark beer, guinness beer)
+- Handles quantities (e.g., "3 tacos" � adds 3 to tacos count)
+- Generates top 50 foods list
+- Creates 15 beautiful square graphics in Spotify Wrapped style
+- Perfect for social media sharing (1080x1080)
 
 ## Requirements
 
